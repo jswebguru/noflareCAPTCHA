@@ -3,10 +3,6 @@
 
 Sometimes we encounter Cloudflare protection when scraping websites. This script helps bypass Cloudflare protection, enabling automated interaction with websites.
 Recently, [@frederik-uni](https://github.com/frederik-uni) has introduced a new feature called "Server Mode". This feature allows you to bypass the Cloudflare protection remotely, either you can get the cookies or the HTML content of the website.
-# Sponsors
-### [Capsolver](https://www.capsolver.com/?utm_source=github&utm_medium=ads&utm_campaign=scraping&utm_term=CloudflareBypassForScraping)
-
-[![Capsolver](docs/capsolver.png)](https://www.capsolver.com/?utm_source=github&utm_medium=ads&utm_campaign=scraping&utm_term=CloudflareBypassForScraping)
 
 # How does this script work?
 
