@@ -17,12 +17,13 @@ However, Cloudflare assumes that any unknown bot traffic, including web scrapers
 
 If you've ever tried to scrape a Cloudflare-protected site, you might have run into a few of the following bot-manager-related errors:
 
-Error 1003: Direct IP access not allowed.
-Errors 1006, 1007, and 1008: Access denied.
-Error 1009: Access denied due to your region.
-Error 1010: Access denied due to suspicious browser signature.
-Error 1015: Your access rate has been limited.
-Error 1020: Access denied because your request looks malicious.
+- Error 1003: Direct IP access not allowed.
+- Errors 1006, 1007, and 1008: Access denied.
+- Error 1009: Access denied due to your region.
+- Error 1010: Access denied due to suspicious browser signature.
+- Error 1015: Your access rate has been limited.
+- Error 1020: Access denied because your request looks malicious.
+
 These challenges are often accompanied by a Cloudflare 403 Forbidden HTTP response status code.
 
 
